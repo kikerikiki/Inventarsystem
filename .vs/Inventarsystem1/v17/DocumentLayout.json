@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Inventarsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\produkt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\produkt\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\produkt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\produkt\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\artikel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\artikel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\produkt\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\produkt\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\lobby\\lobby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\lobby\\lobby.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\seriennummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\seriennummer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\raum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\raum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\kategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\kategorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\models\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\models\\artikel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\controllers\\apiusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\controllers\\apiusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|c:\\dev\\inventarsystem\\inventarsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18017A6-0146-4B85-ABD5-9D2E06E7DAF9}|Inventarsystem1\\Inventarsystem1.csproj|solutionrelative:inventarsystem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T16:11:14.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Create.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Produkt\\Create.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Create.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Produkt\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T16:02:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Produkt\\Index.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Index.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Produkt\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:52:56.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Produkt\\Edit.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Produkt\\Edit.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Produkt\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:52:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Artikel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Artikel\\Index.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Artikel\\Index.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Artikel\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:52:42.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:41:02.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lobby.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Lobby\\Lobby.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Lobby\\Lobby.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Lobby\\Lobby.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Lobby\\Lobby.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:26:17.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:26:10.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\UserRole.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\UserRole.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:17:07.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Role.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Role.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Raum.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Raum.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Raum.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Raum.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Raum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:43.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Produkt.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Produkt.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Produkt.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Produkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:24.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventarsystem1\\appsettings.json",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\appsettings.json",
+              "RelativeToolTip": "Inventarsystem1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T15:07:34.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Inventarsystem1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:40:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kategorie.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Kategorie.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Kategorie.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Kategorie.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Kategorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:12.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Artikel.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Artikel.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Artikel.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Artikel.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Artikel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:15:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\User.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\User.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:14:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIUserController.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Controllers\\APIUserController.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Controllers\\APIUserController.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Controllers\\APIUserController.cs",
+              "RelativeToolTip": "Inventarsystem1\\Controllers\\APIUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:14:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Seriennummer.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Seriennummer.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Models\\Seriennummer.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Models\\Seriennummer.cs",
+              "RelativeToolTip": "Inventarsystem1\\Models\\Seriennummer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:16:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Program.cs",
+              "RelativeDocumentMoniker": "Inventarsystem1\\Program.cs",
+              "ToolTip": "C:\\dev\\Inventarsystem\\Inventarsystem1\\Program.cs",
+              "RelativeToolTip": "Inventarsystem1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:07:31.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

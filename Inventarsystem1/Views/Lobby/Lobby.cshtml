@@ -1,13 +1,77 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@* LobbyView.cshtml *@
 @{
-    <h1> Lagersystem</h1>
-    <button onclick="window.location.href='https://localhost:7078/Artikel/Index'">Artikel </button>
-     <button onclick="window.location.href='https://localhost:7078/Kategorie/Index'">Kategorie </button>
-      <button onclick="window.location.href='https://localhost:7078/Produkt/Index'">Produkt </button>
-       <button onclick="window.location.href='https://localhost:7078/Raum/Index'">Raum </button>
-        <button onclick="window.location.href='https://localhost:7078/Seriennummer/Index'">Seriennummer </button>
-         <button onclick="window.location.href='https://localhost:7078/User/Index'">User </button>
-          <button onclick="window.location.href='https://localhost:7078/UserRole/Index'">User-Roles </button>
+    Layout = null; // Optional, falls du kein Layout verwenden möchtest.
 }
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lagersystem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7fa;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            text-align: center;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #3060DD; /* Deine CI-Farbe */
+        }
+
+        .btn-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            color: #fff;
+            background-color: #4080FF; /* Hauptfarbe aus deinen CI-Farben */
+            text-decoration: none;
+        }
+
+        .btn:hover {
+            background-color: #3060DD; /* Dunklere CI-Farbe */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lagersystem</h1>
+        <div class="btn-container">
+            <a class="btn" href="/Artikel/Index">Artikel</a>
+            <a class="btn" href="/Kategorie/Index">Kategorie</a>
+            <a class="btn" href="/Produkt/Index">Produkt</a>
+            <a class="btn" href="/Raum/Index">Raum</a>
+            <a class="btn" href="/Seriennummer/Index">Seriennummer</a>
+            <a class="btn" href="/User/Index">User</a>
+            <a class="btn" href="/UserRole/Index">User-Roles</a>
+        </div>
+    </div>
+</body>
+</html>
