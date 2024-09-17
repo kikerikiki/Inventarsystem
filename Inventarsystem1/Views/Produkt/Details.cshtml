@@ -1,0 +1,54 @@
+﻿@model Inventarsystem1.Models.Produkt
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Produkt</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Produktname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Produktname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Kommentar)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Kommentar)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Datum)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Datum)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Artikel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Artikel.ArtikelId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Raum)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Raum.RaumId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User.UserId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ProduktId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

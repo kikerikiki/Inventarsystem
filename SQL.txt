@@ -1,0 +1,33 @@
+USE Buecherei;
+
+CREATE TABLE Tbl_SchülerIn (
+    Ausweisnummer int NOT NULL,
+    Nachname nvarchar(50) NOT NULL,
+    Vorname nvarchar(30) NOT NULL,
+    PRIMARY KEY (Ausweisnummer)
+);
+
+CREATE TABLE Tbl_Buch ( 
+    Buchnummer char(6) NOT NULL,
+    Sachgebiet nvarchar(25) NOT NULL,
+    Titel nvarchar(30) NOT NULL,
+    Autor nvarchar(50) NOT NULL,
+    Ort nvarchar(50) NOT NULL,
+    Erscheinungsjahr int NOT NULL,
+    PRIMARY KEY (Buchnummer)
+);
+
+CREATE TABLE Tbl_Ausleihe(
+    Zähler INT IDENTITY NOT NULL,
+    Buchnummer char(6) NOT NULL,
+    Ausweisnummer int NOT NULL,
+    Ausleihdatum datetime NOT NULL,
+    Retourdatum datetime,
+    PRIMARY KEY (Zähler)
+);
+
+ALTER TABLE Tbl_Ausleihe
+ADD FOREIGN KEY (Buchnummer) REFERENCES Tbl_Buch(Buchnummer);
+
+ALTER TABLE Tbl_Ausleihe
+ADD FOREIGN KEY (Ausweisnummer) REFERENCES Tbl_SchülerIn(Ausweisnummer);
